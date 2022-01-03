@@ -1,0 +1,33 @@
+.container-lg {
+  background: whitesmoke;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+
+h2 {
+  padding-top: 20px;
+}
+
+.big_weather_icon {
+  width: 150px;
+  position: relative;
+  bottom: 90px;
+}
+
+.temperature {
+  font-size: 70px;
+  position: relative;
+  left: 130px;
+}
+
+.units {
+  font-size: 20px;
+  position: relative;
+  left: 125px;
+}
+
+ul {
+  list-style: none;
+  position: relative;
+  top: 20px;
+}
